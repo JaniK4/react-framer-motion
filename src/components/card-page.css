@@ -1,0 +1,16 @@
+.con{
+    padding-left: 20%;
+    overflow: hidden;
+}
+.Cards{
+    background-color: rgb(57, 66, 75);
+    overflow: hidden;
+    text-align: justify;
+    padding: 5%;
+    margin: 5%;
+}
+.card-pic {
+    width: 100%; /* Ensures the image takes up the full width of the container */
+    height: 200px;
+    object-fit: cover; /* Ensures the image scales well */
+  }
